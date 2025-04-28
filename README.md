@@ -10,6 +10,7 @@ SC25 Tutorial Proposal
 * GitHub repos, specifically to code/notebooks
 * Any and all talks we think are relevant
 * Other publications
+* Eos cluster (https://blogs.nvidia.com/blog/eos/)
 
 ## Technical Organizers and Contributers (more to add yet)
 * Add the 6 presenters and assistants
