@@ -32,6 +32,6 @@ This page includes links to supplemental material as part of our SC25 tutorial p
 * Andre Merzky, Rutgers University
 * Matteo Turilli, Rutgers University
 * Mikhail Titov, Brookhaven National Laboratory
-* Andre Shao, HPE
-* Dennis Hoppe, HLRS)
+* Andre Shao, Hewlett Packard Enterprise
+* Dennis Hoppe, HLRS
 * Rishabh Saxens, HLRS
