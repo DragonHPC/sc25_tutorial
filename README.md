@@ -10,9 +10,9 @@ This page includes links to supplemental material as part of our SC25 tutorial p
 * [RADICAL-Pilot](https://radicalpilot.readthedocs.io/en/stable/)
 
 ## Sample tutorials
-* [Data processing introduction for DragonHPC - PJM Note: update tomorrow with new content](https://dragonhpc.github.io/dragon/doc/_build/html/uses/data_processing.html)
-* [AI in the loop example for DragonHPC - PJM Note: update tomorrow with new content](https://dragonhpc.github.io/dragon/doc/_build/html/cbook/ai-in-the-loop.html)
-* [Distributed PyTorch in DragonHPC - PJM Note: update tomorrow with new content](https://dragonhpc.github.io/dragon/doc/_build/html/uses/distributed_training.html)
+* [Data processing introduction for DragonHPC](https://dragonhpc.github.io/dragon/doc/_build/html/uses/data_processing.html)
+* [AI in the loop example for DragonHPC](https://dragonhpc.github.io/dragon/doc/_build/html/cbook/ai-in-the-loop.html)
+* [Distributed PyTorch in DragonHPC]https://dragonhpc.github.io/dragon/doc/_build/html/uses/distributed_training.html)
 * [RADICAL-Pilot tutorials](https://github.com/radical-cybertools/tutorials)
 * [RADICAL-Pilot related tutorials](https://github.com/radical-cybertools/tutorials/wiki)
 
