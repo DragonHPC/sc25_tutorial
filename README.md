@@ -30,7 +30,7 @@ This page includes links to supplemental material as part of our SC25 tutorial p
 * Wes Brewer, Oak Ridge National Laboratory
 * Kerem Kayabay, HLRS, University of Stuttgart
 * Andre Merzky, Rutgers University
-* Matteo Turilli, Rutgers University)
+* Matteo Turilli, Rutgers University
 * Mikhail Titov, Brookhaven National Laboratory
 * Andre Shao, HPE
 * Dennis Hoppe, HLRS)
